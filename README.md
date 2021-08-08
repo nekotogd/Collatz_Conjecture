@@ -1,7 +1,7 @@
 # Collatz_Conjecture
 Jupyter Notebook on how to graph the Collatz Conjecture.
 
-https://gesis.mybinder.org/binder/v2/gist/nekotogd/954eeed7fa9846bd6991d347a4e09336/ca9bc3f2a7462e6aa43d6e4444abef657e9afa10
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nekotogd/954eeed7fa9846bd6991d347a4e09336/HEAD)
 
 # Why I made this
 
