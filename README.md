@@ -1,6 +1,8 @@
 # Collatz_Conjecture
 Jupyter Notebook on how to graph the Collatz Conjecture.
 
+https://gesis.mybinder.org/binder/v2/gist/nekotogd/954eeed7fa9846bd6991d347a4e09336/ca9bc3f2a7462e6aa43d6e4444abef657e9afa10
+
 # Why I made this
 
 I actually wanted to learn how to create and use Jupyter Notebooks.
